@@ -1,0 +1,1 @@
+const magnifier = document.querySelector(".magnifier");
